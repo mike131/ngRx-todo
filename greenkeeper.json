@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "nativescript/package.json",
+        "nativescript/src/package.json",
+        "package.json",
+        "src/client/package.json"
+      ]
+    }
+  }
+}
